@@ -1,3 +1,5 @@
+<img width="1088" alt="Screenshot 2024-06-25 at 2 56 27 PM" src="https://github.com/Programming-Constructs/playwright-ts-demo/assets/5936702/42d7a157-c539-4c42-a90f-07ef5369d12c">
+
 # playwright-ts-demo
 Setup demo framework to test multiple projects 
 
@@ -28,4 +30,4 @@ Setup demo framework to test multiple projects
 
 
 
-<img width="1088" alt="Screenshot 2024-06-25 at 2 56 27 PM" src="https://github.com/Programming-Constructs/playwright-ts-demo/assets/5936702/42d7a157-c539-4c42-a90f-07ef5369d12c">
+
